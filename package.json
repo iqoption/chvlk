@@ -1,6 +1,6 @@
 {
-  "name": "chvlk",
-  "version": "0.0.0-development",
+  "name": "@iqoption/chvlk",
+  "version": "0.0.1",
   "description": "Chuvelk [tʃuvèlk] – yet another ui-kit written with typescript and react",
   "main": "index.js",
   "scripts": {
@@ -100,7 +100,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamolegga/chvlk.git"
+    "url": "https://github.com/iqoption/chvlk"
   },
   "config": {
     "commitizen": {
