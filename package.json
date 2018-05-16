@@ -1,6 +1,6 @@
 {
   "name": "@iqoption/chvlk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Chuvelk [tʃuvèlk] – yet another ui-kit written with typescript and react",
   "main": "index.js",
   "scripts": {
