@@ -70,7 +70,11 @@ const common = {
         test: /\.js$/,
         loader: 'source-map-loader',
         enforce: 'pre'
-      }
+      },
+      {
+        test: /\.svg$/,
+        loader: 'file-loader',
+      },
     ]
   },
 
