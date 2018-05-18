@@ -107,7 +107,7 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     },
-    "ghooks": {
+    "ZZZZghooks": {
       "pre-commit": "npm run _lint:all && npm run _prettify:all && npm t"
     }
   }
